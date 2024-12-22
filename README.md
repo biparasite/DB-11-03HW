@@ -36,6 +36,8 @@
 
 ![Logstash](https://github.com/biparasite/DB-11-03HW/blob/main/Logstash.png)
 
+[docker-compose.yaml и конфигурации](https://github.com/biparasite/DB-11-03HW/tree/main/docker-compose-elk)
+
 ---
 
 ## Задание 4. Filebeat
@@ -47,5 +49,7 @@
 ### Ответ
 
 ![Filebeat](https://github.com/biparasite/DB-11-03HW/blob/main/filebeat.png)
+
+[docker-compose.yaml и конфигурации](https://github.com/biparasite/DB-11-03HW/tree/main/docker-compose-elk-fb)
 
 ---
