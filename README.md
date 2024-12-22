@@ -46,6 +46,6 @@
 
 ### Ответ
 
-![Filebeat](https://github.com/biparasite/DB-11-03HW/blob/main/Filebeat.png)
+![Filebeat](https://github.com/biparasite/DB-11-03HW/blob/main/filebeat.png)
 
 ---
